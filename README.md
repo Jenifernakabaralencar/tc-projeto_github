@@ -1,2 +1,2 @@
 # tc-projeto_github
-Este é meu segundo repositório
+Atualizando o readme deste repositorio
